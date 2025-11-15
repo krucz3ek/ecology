@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "ecology",
+	"version": "${version}",
+	"name": "Ecology",
+	"description": "Ecology mod!",
+	"authors": [
+		"Krucz3ek"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/ecology/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ecology.krucz3ek.com.Ecology"
+		],
+		"fabric-datagen": [
+			"ecology.krucz3ek.com.EcologyDataGenerator"
+		],
+        "client": [
+            "ecology.krucz3ek.com.EcologyModClient"
+        ]
+	},
+	"mixins": [
+		"ecology.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

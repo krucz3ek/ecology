@@ -1,0 +1,9 @@
+{
+  "item.ecology.wrench": "Klucz",
+  "item.ecology.chimney_brick": "Cegła Kominowa",
+
+  "block.ecology.chimney_bricks": "Cegły Kominowe",
+
+  "itemgroup.ecology.ecology_blocks": "Ekologia: Bloki",
+  "itemgroup.ecology.ecology_tools": "Ekologia: Narzędzia"
+}

@@ -1,0 +1,9 @@
+{
+  "item.ecology.wrench": "Wrench",
+  "item.ecology.chimney_brick": "Chimney Brick",
+
+  "block.ecology.chimney_bricks": "Chimney Bricks",
+
+  "itemgroup.ecology.ecology_blocks": "Ecology: Blocks",
+  "itemgroup.ecology.ecology_tools": "Ecology: Tools"
+}

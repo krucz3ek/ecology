@@ -1,5 +1,8 @@
 package ecology.krucz3ek.com;
 
+import ecology.krucz3ek.com.block.ModBlocks;
+import ecology.krucz3ek.com.item.ModItemGroups;
+import ecology.krucz3ek.com.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +14,8 @@ public class Ecology implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+        ModItemGroups.registerItemGroups();
+        ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
 	}
 }

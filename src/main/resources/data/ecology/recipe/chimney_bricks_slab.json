@@ -3,15 +3,14 @@
   "category": "building",
   "key": {
     "#": {
-      "item": "ecology:chimney_brick"
+      "item": "ecology:chimney_bricks"
     }
   },
   "pattern": [
-    "##",
-    "##"
+    "###"
   ],
   "result": {
-    "count": 1,
-    "id": "ecology:chimney_bricks"
+    "count": 6,
+    "id": "ecology:chimney_bricks_slab"
   }
 }

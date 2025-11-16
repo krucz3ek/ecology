@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ecology:block/chimney_bricks"
+    },
+    "type=double": {
+      "model": "ecology:block/chimney_bricks"
+    },
+    "type=top": {
+      "model": "ecology:block/chimney_bricks"
+    }
+  }
+}

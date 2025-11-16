@@ -1,9 +1,11 @@
 {
   "item.ecology.wrench": "Wrench",
-  "item.ecology.chimney_brick": "Chimney Brick",
+  "item.ecology.chimney_brick": "Chimney brick",
 
-  "block.ecology.chimney_bricks": "Chimney Bricks",
+  "block.ecology.chimney_bricks": "Chimney bricks",
+  "block.ecology.chimney_bricks_slab": "Chimney bricks slab",
+  "block.ecology.chimney_bricks_stairs": "Chimney bricks stairs",
 
-  "itemgroup.ecology.ecology_blocks": "Ecology: Blocks",
-  "itemgroup.ecology.ecology_tools": "Ecology: Tools"
+  "itemgroup.ecology.ecology_blocks": "Ecology: blocks",
+  "itemgroup.ecology.ecology_tools": "Ecology: tools"
 }

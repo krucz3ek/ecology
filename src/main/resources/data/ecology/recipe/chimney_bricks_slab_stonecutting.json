@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "ecology:chimney_bricks"
+  },
+  "result": {
+    "count": 2,
+    "id": "ecology:chimney_bricks_slab"
+  }
+}

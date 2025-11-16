@@ -1,9 +1,12 @@
 {
   "item.ecology.wrench": "Klucz",
-  "item.ecology.chimney_brick": "Cegła Kominowa",
+  "item.ecology.chimney_brick": "Cegła kominowa",
 
   "block.ecology.chimney_bricks": "Cegły Kominowe",
+  "block.ecology.chimney_bricks_slab": "Ceglana płytka kominowa",
+  "block.ecology.chimney_bricks_stairs": "Ceglane schody kominowe",
 
-  "itemgroup.ecology.ecology_blocks": "Ekologia: Bloki",
-  "itemgroup.ecology.ecology_tools": "Ekologia: Narzędzia"
+  "itemgroup.ecology.ecology_blocks": "Ekologia: bloki",
+  "itemgroup.ecology.ecology_tools": "Ekologia: narzędzia"
+
 }

@@ -16,6 +16,14 @@ public class ModBlocks {
             new Block(AbstractBlock.Settings.create().strength(4.5f)
                     .requiresTool().sounds(BlockSoundGroup.STONE)));
 
+    public static final Block CHIMNEY_BRICKS_STAIRS = registerBlock("chimney_bricks_stairs",
+            new Block(AbstractBlock.Settings.create().strength(4.5f)
+                    .requiresTool().sounds(BlockSoundGroup.STONE)));
+
+    public static final Block CHIMNEY_BRICKS_SLAB = registerBlock("chimney_bricks_slab",
+            new Block(AbstractBlock.Settings.create().strength(4.5f)
+                    .requiresTool().sounds(BlockSoundGroup.STONE)));
+
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, Identifier.of(Ecology.MOD_ID, name), block);

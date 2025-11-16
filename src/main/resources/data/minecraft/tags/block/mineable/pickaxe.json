@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-    "ecology:chimney_bricks"
+    "ecology:chimney_bricks",
+    "ecology:chimney_bricks",
+    "ecology:chimney_bricks_slab",
+    "ecology:chimney_bricks_stairs"
   ]
 }

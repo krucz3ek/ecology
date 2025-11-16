@@ -20,6 +20,10 @@ public class ModItemGroups {
 
                         //Blocks
                         entries.add(ModBlocks.CHIMNEY_BRICKS);
+                        entries.add(ModBlocks.CHIMNEY_BRICKS_SLAB);
+                        entries.add(ModBlocks.CHIMNEY_BRICKS_STAIRS);
+
+                        //Items
                         entries.add(ModItems.CHIMNEY_BRICK);
 
                     }).build());
